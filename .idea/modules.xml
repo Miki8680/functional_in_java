@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/capter2_collections/capter2_collections.iml" filepath="$PROJECT_DIR$/capter2_collections/capter2_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_collections/chapter2_collections.iml" filepath="$PROJECT_DIR$/chapter2_collections/chapter2_collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional.programming.java8.com.iml" filepath="$PROJECT_DIR$/functional.programming.java8.com.iml" />
     </modules>
   </component>
